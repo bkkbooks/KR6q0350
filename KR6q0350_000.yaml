@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0350/x/v1/juan/0
+seq: 0
+front:
+  text: 了堂一和尚語録總目卷一慶元路延慶寺語録台州路紫籜山廣度寺語録卷二慶元路天寧寺語録天童寺語録頌古讚語自讚卷三偈頌小佛事卷四後録
+  hash: sha256:17b40cae4f50a1ce42b8909349007fa9692d2ad3201d167d36ca120638ed8d3b
+  markers:
+  - {type: 其他, offset: 0, content: 了堂一和尚語錄總目, id: KR6q0350_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 了堂惟一禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X71/X71n1417.xml
+    old_id: X71n1417
+hash: sha256:12e52780cdf65c1eda45a259af9b0b1a46e22c84257c028593430e4fb0b4cc1b
