@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0350_000-X.yaml, hash: 'sha256:582c0b97fc3e5a0eab165db5bfa64e9000ca7796bf9130526afa8bf05a0ef925'}
+  - {seq: 0, filename: KR6q0350_000-X.yaml, hash: 'sha256:4d53ab30b0c80e7b5096233ac9763ed34a229d4e1f93dc660ed4a9d5d672c3f1'}
   - {seq: 1, filename: KR6q0350_001-X.yaml, hash: 'sha256:b77a68d7ddce5c8f031ad27aae10acdc4c4febade768a5c71fa75a462339ab11'}
   - {seq: 2, filename: KR6q0350_002-X.yaml, hash: 'sha256:d9ea13943f671e34c17b72a2e5d1ea3937de6ab029985e987e9a5c9d60938fd0'}
   - {seq: 3, filename: KR6q0350_003-X.yaml, hash: 'sha256:92937be4e5488717ce67d730ec438fe8f200d34d1fe949bceda82ea43125cf57'}
   - {seq: 4, filename: KR6q0350_004-X.yaml, hash: 'sha256:1dec381bf6305b9ed3385e7900cb63d7c4ddd6986aeda7cb9c88f038456a13eb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0350_000-X.markers.yaml, hash: 'sha256:24c52f6434fe73d1b24c5468b20e7b7aa84a15b12b9a930195ce7e48bf4726a3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0350_000-X.markers.yaml, hash: 'sha256:1b2ff4e69740f14fbfb32012a779cf9accd479518092dcb74c5cb58861e7db03'}
   - {seq: 1, role: markers, filename: assets/KR6q0350_001-X.markers.yaml, hash: 'sha256:00018393ed0b339fa9d5b9d443aeaa0da88139aa1abab8be96d6479aaf782057'}
   - {seq: 2, role: markers, filename: assets/KR6q0350_002-X.markers.yaml, hash: 'sha256:4ff8ba03c9a4a1ce5ae6846932e422907d0219afaebcc5d827513a2a4f6059b4'}
   - {seq: 3, role: markers, filename: assets/KR6q0350_003-X.markers.yaml, hash: 'sha256:0b3996dfbf3224586013f63ec0329ff60d8dad850e9f96f23c157a4521a9dce7'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0350_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 了堂一和尚語錄總目
@@ -3111,4 +3111,4 @@ table_of_contents:
   label: 得淨人火
   type: mulu
   level: 1
-hash: sha256:bf4d3d4f5da6c7eef8489817b4a107755aa266dc79f4fecd710c5a7468b9d945
+hash: sha256:4481b1df497561bf09225b7a318b86f9ba6c447f0d8124ab512686150f721ee9
